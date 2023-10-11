@@ -1,0 +1,15 @@
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/bin/Debug/net7.0/prove-04
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/bin/Debug/net7.0/prove-04.deps.json
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/bin/Debug/net7.0/prove-04.runtimeconfig.json
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/bin/Debug/net7.0/prove-04.dll
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/bin/Debug/net7.0/prove-04.pdb
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/prove-04.csproj.AssemblyReference.cache
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/prove-04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/prove-04.AssemblyInfoInputs.cache
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/prove-04.AssemblyInfo.cs
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/prove-04.csproj.CoreCompileInputs.cache
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/prove-04.dll
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/refint/prove-04.dll
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/prove-04.pdb
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/prove-04.genruntimeconfig.cache
+/Users/morrishinneh/Library/CloudStorage/OneDrive-BYU-Idaho/Fall_2023/cse212/04/obj/Debug/net7.0/ref/prove-04.dll
